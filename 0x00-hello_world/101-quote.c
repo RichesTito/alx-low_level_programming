@@ -1,7 +1,7 @@
 #include <unistd.h>
 
 /**
- * main -Prints a text in C
+ * main - Prints a text in C
  *
  * Return: Always 1 (Successful)
  */

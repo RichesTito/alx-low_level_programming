@@ -1,1 +1,1 @@
-Contains codes for more function and more nested loops
+More functions and more nested loops

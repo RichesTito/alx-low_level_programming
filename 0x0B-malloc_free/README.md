@@ -1,1 +1,1 @@
-This is a project on mallocs (memory allocation)
+This is a file containing projects on memory allocation (mallocs)
